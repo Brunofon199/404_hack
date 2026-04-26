@@ -32,6 +32,26 @@ El sistema integra un orquestador inteligente que decide que agente ejecutar seg
 
 ---
 
+## DEMO
+
+Template para colocar el link del video:
+
+```md
+## DEMO
+
+[Ver demo en video](AQUI_PEGA_TU_LINK_DE_VIDEO)
+```
+
+Tambien puedes usar version con miniatura clickeable:
+
+```md
+## DEMO
+
+[![Demo del proyecto](AQUI_PEGA_URL_DE_IMAGEN_O_THUMBNAIL)](AQUI_PEGA_TU_LINK_DE_VIDEO)
+```
+
+---
+
 ## 2. Problema que resuelve
 
 El problema principal es la falta de un flujo unificado, auditable y automatizable para vigilancia de contenido potencialmente peligroso en redes de alta dinamica.
@@ -242,11 +262,30 @@ Esto levanta backend (Express) y frontend (Vite) en paralelo segun scripts del p
 
 ## 9. Integrantes del equipo
 
-- Arano Bejarano Melisa Asharet
-- Alegre Ventura Roberto Jhoshua
-- Fonseca González Bruno
-- Martínez Jiménez Israel
-- Sánchez Olsen Emil Ehécatl
+<table>
+    <tr>
+        <td align="center" width="20%">
+            <img src="URL_FOTO_MELISA" alt="Arano Bejarano Melisa Asharet" width="180"/><br/>
+            <strong>Arano Bejarano Melisa Asharet</strong>
+        </td>
+        <td align="center" width="20%">
+            <img src="URL_FOTO_ROBERTO" alt="Alegre Ventura Roberto Jhoshua" width="180"/><br/>
+            <strong>Alegre Ventura Roberto Jhoshua</strong>
+        </td>
+        <td align="center" width="20%">
+            <img src="URL_FOTO_BRUNO" alt="Fonseca González Bruno" width="180"/><br/>
+            <strong>Fonseca González Bruno</strong>
+        </td>
+        <td align="center" width="20%">
+            <img src="URL_FOTO_ISRAEL" alt="Martínez Jiménez Israel" width="180"/><br/>
+            <strong>Martínez Jiménez Israel</strong>
+        </td>
+        <td align="center" width="20%">
+            <img src="URL_FOTO_EMIL" alt="Sánchez Olsen Emil Ehécatl" width="180"/><br/>
+            <strong>Sánchez Olsen Emil Ehécatl</strong>
+        </td>
+    </tr>
+</table>
 
 ---
 
@@ -264,3 +303,4 @@ Esto levanta backend (Express) y frontend (Vite) en paralelo segun scripts del p
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=120&section=footer" width="100%"/>
 
 </div>
+
